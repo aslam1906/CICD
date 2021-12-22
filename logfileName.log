@@ -1,0 +1,365 @@
+[Licensing::Module] Channel doesn't exist: "LicenseClient-Aslam"
+[Licensing::Module] Successfully launched the LicensingClient (PId: 6028)
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Aslam" (connect: 1.99s, validation: 0.11s, handshake: 1.76s)
+[Licensing::Module] Connected to LicensingClient (PId: 6028, launch time: 0.01, total connection time: 3.86s)
+Entitlement-based licensing initiated
+[LicensingClient] Licenses updated successfully
+
+LICENSE SYSTEM [20211222 11:6:51] Next license update check is after 2021-12-07T16:16:29
+
+
+LICENSE SYSTEM [20211222 11:6:51] Current license is already valid and activated. Skipping license activation process (Provided username/password will be ignored).
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 15063.138; Version 1703; 64bit' Language: 'en' Physical Memory: 6052 MB
+[Licensing::Module] Serial number assigned to: "SC-JEX5-Q7HG-SRPH-EEDB-XXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+[Package Manager] Server::Start -- Port 62235 was selected
+
+ COMMAND LINE ARGUMENTS:
+Unity.exe
+-batchmode
+-quit
+-projectPath
+E:\MyProjects\CICDTest
+-buildTarget
+Android
+-executeMethod
+AndroidBuilder.ProductionBuild
+-logfile
+E:\MyProjects\CICDTest\logfileName.log
+Successfully changed project path to: E:\MyProjects\CICDTest
+E:/MyProjects/CICDTest
+Using Asset Import Pipeline V2.
+[Package Manager] Restoring resolved packages state from cache
+[Package Manager] Done checking package constraints in 0.00s seconds
+[Package Manager] 
+Registered 43 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@1.5.7 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.collab-proxy@1.5.7)
+    com.unity.ide.rider@2.0.7 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.ide.rider@2.0.7)
+    com.unity.ide.visualstudio@2.0.8 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.ide.visualstudio@2.0.8)
+    com.unity.ide.vscode@1.2.3 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.ide.vscode@1.2.3)
+    com.unity.test-framework@1.1.24 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.test-framework@1.1.24)
+    com.unity.textmeshpro@3.0.6 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.textmeshpro@3.0.6)
+    com.unity.timeline@1.4.8 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.timeline@1.4.8)
+    com.unity.ext.nunit@1.0.6 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.ext.nunit@1.0.6)
+    com.unity.nuget.newtonsoft-json@2.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0)
+  Built-in packages:
+    com.unity.ugui@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.ugui@1.0.0)
+    com.unity.modules.ai@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.ai@1.0.0)
+    com.unity.modules.androidjni@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.androidjni@1.0.0)
+    com.unity.modules.animation@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.animation@1.0.0)
+    com.unity.modules.assetbundle@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.assetbundle@1.0.0)
+    com.unity.modules.audio@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.audio@1.0.0)
+    com.unity.modules.cloth@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.cloth@1.0.0)
+    com.unity.modules.director@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.director@1.0.0)
+    com.unity.modules.imageconversion@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.imageconversion@1.0.0)
+    com.unity.modules.imgui@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.imgui@1.0.0)
+    com.unity.modules.jsonserialize@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0)
+    com.unity.modules.particlesystem@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.particlesystem@1.0.0)
+    com.unity.modules.physics@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.physics@1.0.0)
+    com.unity.modules.physics2d@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.physics2d@1.0.0)
+    com.unity.modules.screencapture@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.screencapture@1.0.0)
+    com.unity.modules.terrain@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.terrain@1.0.0)
+    com.unity.modules.terrainphysics@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0)
+    com.unity.modules.tilemap@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.tilemap@1.0.0)
+    com.unity.modules.ui@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.ui@1.0.0)
+    com.unity.modules.uielements@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.uielements@1.0.0)
+    com.unity.modules.umbra@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.umbra@1.0.0)
+    com.unity.modules.unityanalytics@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0)
+    com.unity.modules.unitywebrequest@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0)
+    com.unity.modules.vehicles@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.vehicles@1.0.0)
+    com.unity.modules.video@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.video@1.0.0)
+    com.unity.modules.vr@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.vr@1.0.0)
+    com.unity.modules.wind@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.wind@1.0.0)
+    com.unity.modules.xr@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.xr@1.0.0)
+    com.unity.modules.subsystems@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.subsystems@1.0.0)
+    com.unity.modules.uielementsnative@1.0.0 (location: E:\MyProjects\CICDTest\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0)
+
+[Subsystems] No new subsystems found in resolved package list.
+Package Manager log level set to [2]
+[Package Manager] Done registering packages in 0.56s seconds
+Targeting platform: Android
+Refreshing native plugins compatible for Editor in 715.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/MyProjects/CICDTest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.2843
+Could not load symbol clCreateImage : The specified procedure could not be found.
+
+
+Could not load symbol clEnqueueFillBuffer : The specified procedure could not be found.
+
+
+Could not load symbol clEnqueueFillImage : The specified procedure could not be found.
+
+
+Could not load symbol clEnqueueMarkerWithWaitList : The specified procedure could not be found.
+
+
+Could not load symbol clGetExtensionFunctionAddressForPlatform : The specified procedure could not be found.
+
+
+Could not load symbol clUnloadPlatformCompiler : The specified procedure could not be found.
+
+
+Could not load symbol clCreateFromGLTexture : The specified procedure could not be found.
+
+
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.884920 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.716 seconds
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000487 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000973 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+Registering precompiled user dll's ...
+Registered in 1.544386 seconds.
+AssetDatabase: script compilation time: 0.077591s
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.726 seconds
+Platform modules already initialized, skipping
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 37887.886ms
+	InvokeBeforeRefreshCallbacks: 0.531ms
+	ApplyChangesToAssetFolders: 0.106ms
+	Scan: 767.222ms
+	OnSourceAssetsModified: 0.000ms
+	InitializeImportedAssetsSnapshot: 0.964ms
+	GetAllGuidsForCategorization: 0.514ms
+	CategorizeAssets: 61.990ms
+	ImportAndPostprocessOutOfDateAssets: 37015.455ms (36935.738ms without children)
+		CompileScripts: 79.005ms
+		PostProcessAllAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.254ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.331ms
+		RestoreLoadedAssetsState: 0.126ms
+	ReloadSourceAssets: 0.376ms
+	UnloadImportedAssets: 0.005ms
+	Hotreload: 1.945ms
+	FixTempGuids: 0.006ms
+	UnloadStreamsBegin: 0.454ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.006ms
+	GetLoadedSourceAssetsSnapshot: 0.221ms
+	PersistCurrentRevisions: 0.588ms
+	UnloadStreamsEnd: 11.436ms
+	GenerateScriptTypeHashes: 0.444ms
+	Untracked: 26.067ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Refresh completed in 0.073352 seconds.
+RefreshInfo: RefreshV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 73.320ms
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 27.409ms
+Refresh completed in 0.141430 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 141.387ms
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Initializing Unity extensions:
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 65.4 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 12.064227 ms (FindLiveObjects: 0.393425 ms CreateObjectMapping: 0.206732 ms MarkObjects: 9.139684 ms  DeleteObjects: 2.318521 ms)
+
+ProgressiveSceneManager::Cancel()
+DisplayProgressbar: Checking prerequisites
+Android PostProcess task "Checking prerequisites" took 7.305 ms
+DisplayProgressbar: Detect Java Development Kit (JDK)
+Android PostProcess task "Detect Java Development Kit (JDK)" took 498.2181 ms
+DisplayProgressbar: Detecting Android SDK
+ File C:\Users\my pc\.android\repositories.cfg could not be loaded.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.Android.AndroidSDKTools:DetectErrorsAndWarnings (string,string,string[])
+UnityEditor.Android.AndroidSDKTools:RunAndroidSdkTool (string,string,bool,string,string,string[])
+UnityEditor.Android.AndroidSDKTools:ListComponentsVersions ()
+UnityEditor.Android.SDKManager:UpdatePackagesList ()
+UnityEditor.Android.SDKManager:HighestVersionInstalled (UnityEditor.Android.SDKManager/Component)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKToolsDetector:GetVersion ()
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKComponentDetector:Detect (System.Version,UnityEditor.Android.PostProcessor.ProgressHandler)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK:EnsureSDKComponentVersion (System.Version,UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKComponentDetector)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK:Execute (UnityEditor.Android.PostProcessor.PostProcessorContext)
+UnityEditor.Android.PostProcessor.PostProcessRunner:RunAllTasks (UnityEditor.Android.PostProcessor.PostProcessorContext)
+UnityEditor.Android.PostProcessAndroidPlayer:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTarget)
+UnityEditor.Android.AndroidBuildPostprocessor:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTarget)
+UnityEditor.PostprocessBuildPlayer:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget)
+UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,string[])
+UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,string[])
+UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+AndroidBuilder:ProductionBuild () (at Assets/Editor/Builder/AndroidBuilder.cs:11)
+
+(Filename: Assets/Editor/Builder/AndroidBuilder.cs Line: 11)
+
+Failed to extract Android SDK Platform version from string 'S', 
+Input string was not in a correct format.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogWarningFormat (string,object[])
+UnityEditor.Android.SDKManager:CreateVersion (string,UnityEditor.Android.SDKManager/Component,bool)
+UnityEditor.Android.SDKManager:ParseSDKManagerOutput (string[])
+UnityEditor.Android.SDKManager:UpdatePackagesList ()
+UnityEditor.Android.SDKManager:HighestVersionInstalled (UnityEditor.Android.SDKManager/Component)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKToolsDetector:GetVersion ()
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKComponentDetector:Detect (System.Version,UnityEditor.Android.PostProcessor.ProgressHandler)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK:EnsureSDKComponentVersion (System.Version,UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK/SDKComponentDetector)
+UnityEditor.Android.PostProcessor.Tasks.CheckAndroidSDK:Execute (UnityEditor.Android.PostProcessor.PostProcessorContext)
+UnityEditor.Android.PostProcessor.PostProcessRunner:RunAllTasks (UnityEditor.Android.PostProcessor.PostProcessorContext)
+UnityEditor.Android.PostProcessAndroidPlayer:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTarget)
+UnityEditor.Android.AndroidBuildPostprocessor:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTarget)
+UnityEditor.PostprocessBuildPlayer:PrepareForBuild (UnityEditor.BuildOptions,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget)
+UnityEditor.BuildPipeline:BuildPlayerInternal (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,string[])
+UnityEditor.BuildPipeline:BuildPlayer (string[],string,string,UnityEditor.BuildTargetGroup,UnityEditor.BuildTarget,UnityEditor.BuildOptions,string[])
+UnityEditor.BuildPipeline:BuildPlayer (UnityEditor.BuildPlayerOptions)
+AndroidBuilder:ProductionBuild () (at Assets/Editor/Builder/AndroidBuilder.cs:11)
+
+(Filename: Assets/Editor/Builder/AndroidBuilder.cs Line: 11)
+
+AndroidSDKTools:
+
+	root          : C:\Program Files\Android\SDK
+	tools         : C:\Program Files\Android\SDK\tools
+	platform-tools: C:\Program Files\Android\SDK\platform-tools
+	build-tools   : C:\Program Files\Android\SDK\build-tools\30.0.3
+
+	adb           : C:\Program Files\Android\SDK\platform-tools\adb.exe
+
+Android PostProcess task "Detecting Android SDK" took 17337.4337 ms
+DisplayProgressbar: Detect Android NDK
+Android PostProcess task "Detect Android NDK" took 256.3144 ms
+Android PostProcess task "Trying to find a suitable Android device" took 0.7927 ms
+BuildPlayerGenerator: Succeeded
+[ScriptCompilation] Recompiling all scripts because: Recompiling scripts for player build.
+BuildPlayer: start building target 13
+- Starting script compilation
+- Starting compile Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll
+- Starting compile Library/PlayerScriptAssemblies/UnityEngine.UI.dll
+- Finished compile Library/PlayerScriptAssemblies/UnityEngine.TestRunner.dll in 9.314589 seconds
+- Finished compile Library/PlayerScriptAssemblies/UnityEngine.UI.dll in 9.324075 seconds
+- Starting compile Library/PlayerScriptAssemblies/Unity.Timeline.dll
+- Starting compile Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll
+- Finished compile Library/PlayerScriptAssemblies/Unity.Timeline.dll in 2.439732 seconds
+- Finished compile Library/PlayerScriptAssemblies/Unity.TextMeshPro.dll in 3.045594 seconds
+- Finished script compilation in 12.47695 seconds
+BuildPlayerGenerator: Succeeded
+DisplayProgressNotification: Build Failed
+'Assets/Scenes/Scene1.unity' is an incorrect path for a scene file. BuildPlayer expects paths relative to the project folder.
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.1 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 7.078722 ms (FindLiveObjects: 0.343086 ms CreateObjectMapping: 0.112896 ms MarkObjects: 6.580709 ms  DeleteObjects: 0.038609 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.044 ms
+	Integration:            28.681 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   29.739 ms
+System memory in use before: 66.9 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 6.512776 ms (FindLiveObjects: 0.205265 ms CreateObjectMapping: 0.087482 ms MarkObjects: 6.189239 ms  DeleteObjects: 0.027857 ms)
+
+Batchmode quit successfully invoked - shutting down!
+[Performance] WinEditorMain                                               :        1 samples, Peak.  4.10 s (1.0x), Avg.  4.10 s, Total. 4.099 s (4.2%)
+[Performance] WinEditorMain.ConfigureCrashHandler                         :        1 samples, Peak.  49.4 us (1.0x), Avg.  49.4 us, Total. 49.36 us (0.0%)
+[Performance] WinEditorMain.CurlRequestInitialize                         :        1 samples, Peak.  8.19 ms (1.0x), Avg.  8.19 ms, Total. 8.189 ms (0.0%)
+[Performance] WinEditorMain.SetupLogFile                                  :        1 samples, Peak.   379 us (1.0x), Avg.   379 us, Total. 379.3 us (0.0%)
+[Performance] WinEditorMain.RunNativeTestsIfRequiredAndExit               :        1 samples, Peak.   429 us (1.0x), Avg.   429 us, Total. 429.1 us (0.0%)
+[Performance] WinEditorMain.Licensing                                     :        1 samples, Peak.  4.06 s (1.0x), Avg.  4.06 s, Total. 4.060 s (4.2%)
+[Performance] WinEditorMain.InitializeCrashHandler                        :        1 samples, Peak.  22.2 ms (1.0x), Avg.  22.2 ms, Total. 22.25 ms (0.0%)
+[Performance] WinEditorMain.CreateApplication                             :        1 samples, Peak.  3.26 ms (1.0x), Avg.  3.26 ms, Total. 3.263 ms (0.0%)
+[Performance] Application.InitializeProject                               :        1 samples, Peak.  57.8 s (1.0x), Avg.  57.8 s, Total. 57.81 s (59.9%)
+[Performance] Application.PackageManager.StartServer                      :        1 samples, Peak.  11.2 ms (1.0x), Avg.  11.2 ms, Total. 11.24 ms (0.0%)
+[Performance] Application.AcquireProjectLock                              :        1 samples, Peak.  35.8 ms (1.0x), Avg.  35.8 ms, Total. 35.85 ms (0.0%)
+[Performance] Application.InitializeEngineNoGraphics                      :        1 samples, Peak.   732 ms (1.0x), Avg.   732 ms, Total. 731.9 ms (0.8%)
+[Performance] Application.PackageManager.Initialize                       :        1 samples, Peak.  3.01 s (1.0x), Avg.  3.01 s, Total. 3.008 s (3.1%)
+[Performance] CurlRequestCheck                                            :       56 samples, Peak.   808 us (33.6x), Avg.  24.0 us, Total. 1.346 ms (0.0%)
+[Performance] VersionControl.Task.Wait                                    :        1 samples, Peak.  2.76 ms (1.0x), Avg.  2.76 ms, Total. 2.764 ms (0.0%)
+[Performance] Application.EngineGraphics.Initialize                       :        1 samples, Peak.   259 ms (1.0x), Avg.   259 ms, Total. 258.7 ms (0.3%)
+[Performance] Application.GI.Initialize                                   :        1 samples, Peak.  47.1 ms (1.0x), Avg.  47.1 ms, Total. 47.05 ms (0.0%)
+[Performance] Application.LoadAllDefaultResourcesFromEditor               :        1 samples, Peak.  5.99 ms (1.0x), Avg.  5.99 ms, Total. 5.992 ms (0.0%)
+[Performance] Application.LoadMonoAssemblies                              :        1 samples, Peak.  9.81 s (1.0x), Avg.  9.81 s, Total. 9.808 s (10.2%)
+[Performance] RestoreManagedReferences                                    :        2 samples, Peak.   190 ms (2.0x), Avg.  95.1 ms, Total. 190.3 ms (0.2%)
+[Performance] ProcessService.EditorAfterLoadAllAssemblies                 :        2 samples, Peak.  76.9 ms (1.2x), Avg.  63.6 ms, Total. 127.1 ms (0.1%)
+[Performance] Application.ReadLicenseInfo                                 :        1 samples, Peak.  29.0 ms (1.0x), Avg.  29.0 ms, Total. 28.96 ms (0.0%)
+[Performance] Application.InitialScriptRefresh                            :        1 samples, Peak.  37.9 s (1.0x), Avg.  37.9 s, Total. 37.89 s (39.3%)
+[Performance] Compiling Scripts                                           :        1 samples, Peak.  78.9 ms (1.0x), Avg.  78.9 ms, Total. 78.93 ms (0.1%)
+[Performance] Application.AssetDatabase.Refresh                           :        1 samples, Peak.  73.8 ms (1.0x), Avg.  73.8 ms, Total. 73.80 ms (0.1%)
+[Performance] AssetDatabase.Refresh                                       :        1 samples, Peak.  73.7 ms (1.0x), Avg.  73.7 ms, Total. 73.69 ms (0.1%)
+[Performance] Application.ImportAssetsWithMismatchingAssetImporterVersion :        1 samples, Peak.   279 ms (1.0x), Avg.   279 ms, Total. 278.9 ms (0.3%)
+[Performance] Application.SyncCurrentColorSpace                           :        1 samples, Peak.   658 ms (1.0x), Avg.   658 ms, Total. 658.1 ms (0.7%)
+[Performance] Application.OnUsbDevicesChanged                             :        1 samples, Peak.   112 ms (1.0x), Avg.   112 ms, Total. 112.3 ms (0.1%)
+[Performance] Application.AssetInstanceCacheUpdate                        :        1 samples, Peak.   977 ns (1.0x), Avg.   977 ns, Total. 977.5 ns (0.0%)
+[Performance] Application.UnityExtensions.Initialize                      :        1 samples, Peak.  1.30 ms (1.0x), Avg.  1.30 ms, Total. 1.298 ms (0.0%)
+[Performance] Application.InitializeManagedCompilationPipeline            :        1 samples, Peak.   103 ms (1.0x), Avg.   103 ms, Total. 103.3 ms (0.1%)
+[Performance] Application.ExecuteStartups                                 :        1 samples, Peak.   527 ms (1.0x), Avg.   527 ms, Total. 527.4 ms (0.5%)
+[Performance] Gizmo.RebuildRenderers                                      :        2 samples, Peak.   227 ms (2.0x), Avg.   114 ms, Total. 228.2 ms (0.2%)
+[Performance] Gizmo.AddGizmoRenderers                                     :       74 samples, Peak.  3.73 ms (35.5x), Avg.   105 us, Total. 7.772 ms (0.0%)
+[Performance] Application.InitializeMenu                                  :        1 samples, Peak.  95.7 ms (1.0x), Avg.  95.7 ms, Total. 95.74 ms (0.1%)
+[Performance] UpdateAllMenus                                              :        1 samples, Peak.  94.1 ms (1.0x), Avg.  94.1 ms, Total. 94.11 ms (0.1%)
+[Performance] Application.editorInitializingProject                       :        1 samples, Peak.   584 us (1.0x), Avg.   584 us, Total. 584.0 us (0.0%)
+[Performance] GUIView.RepaintAll.PlayerLoopController                     :        2 samples, Peak.  6.35 us (1.3x), Avg.  4.89 us, Total. 9.775 us (0.0%)
+[Performance] Application.InvokeFinishedLoadingProject                    :        1 samples, Peak.   197 ms (1.0x), Avg.   197 ms, Total. 196.9 ms (0.2%)
+[Performance] ProcessService.OnProjectLoaded                              :        1 samples, Peak.   102 ms (1.0x), Avg.   102 ms, Total. 101.6 ms (0.1%)
+[Performance] AssetDatabase.ImportAssets                                  :        2 samples, Peak.  1.47 us (2.0x), Avg.   733 ns, Total. 1.466 us (0.0%)
+[Performance] GenerateAssemblyTypeInfos                                   :        2 samples, Peak.  1.51 s (1.3x), Avg.  1.14 s, Total. 2.282 s (2.4%)
+[Performance] Inspector.InitOrRebuild                                     :        1 samples, Peak.  1.61 ms (1.0x), Avg.  1.61 ms, Total. 1.614 ms (0.0%)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1244 -> priority: 1 
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+Exiting batchmode successfully now!
+Exiting without the bug reporter. Application will terminate with return code 0
